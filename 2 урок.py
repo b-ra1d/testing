@@ -1,6 +1,3 @@
-from time import perf_counter
-
-
 class Sneaker:
     def __init__(self,brand,size,price):
         self.brand = brand
